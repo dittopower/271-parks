@@ -10,3 +10,4 @@ Requires:
  - MySQL/MariaDB
  - Apache/httpd
  
+Later repackaged into a docker container.
